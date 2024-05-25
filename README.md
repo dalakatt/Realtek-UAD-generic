@@ -1,3 +1,4 @@
+
 ### Compatibility
 This Realtek UAD driver mod should install and function properly on all systems supporting Realtek Legacy HDA FF00 drivers that don't rely on any special audio enhancements. If used with devices relying on special audio enhancements functionality and feature set available may be limited.
 ### Switching from other Realtek HD Audio drivers
